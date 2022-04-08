@@ -16,6 +16,29 @@ keywords:
 sidebar_label: 'SWE interviews: What are they and how to prepare'
 ---
 
+<head>
+  <script type="application/ld+json">{
+    `{
+      "@context": "https://schema.org/",
+      "@type": "Recipe",
+      "name": "Banana Bread Recipe",
+      "description": "The best banana bread recipe you'll ever find! Learn how to use up all those extra bananas.",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "ratingCount": "123"
+      },
+      "video": {
+        "@type": "VideoObject",
+        "name": "How To Make Banana Bread",
+        "description": "This is how you make banana bread, in 5 easy steps.",
+        "contentUrl": "http://www.example.com/video123.mp4"
+        }
+      }
+    `}
+  </script>
+</head>
+
 Nobody has time to grind hundreds of LeetCode questions, and the good news is that you don't need to do that many to actually get the job at FAANG!
 
 I was frustrated at my job at Grab, a ridesharing company in South-east Asia and wanted to break into FAANG but I wasn't sure how to. After a few months of research, studying and practicing, I interviewed at 11 companies and managed to get 9 offers from top tech companies in the Bay Area - Facebook, Google, Airbnb, Palantir, Dropbox, Lyft, and some startups. It was a tedious process which I don't ever want to go through again. **I went through that process but with this guide, you don't have to.**
